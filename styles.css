@@ -1,0 +1,41 @@
+#f1{
+    display: inline;
+    border: 3px solid rgb(156, 63, 156);
+
+    }
+    #fi{
+    display: inline;
+    border: 5px solid rgb(184, 127, 127);
+
+    }
+#b1{
+    background: url(cm.jpg);
+    background-repeat: no-repeat;
+    background-size: 1550px 750px; 
+
+} 
+#h1{ 
+    margin-top: 1px;
+    font-family: Rye, 'Times New Roman', Times, serif;
+}
+#h2{
+    font-family: Playball, 'Times New Roman', Times, serif;
+    font-size: 35px;
+    color: rgb(206, 27, 27);
+}	
+#l1{
+    font-family: Courgette, 'Times New Roman', Times, serif;
+    font-size: 35px;
+}
+#p1{
+    font-family: Playball ,Lorbste 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+.d1{
+    font-family: Merienda,Playball , 'Times New Roman', Times, serif;
+    font-size: 12px;
+}
+#a1{
+    font-family: Lemonada,Lobster, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+}
