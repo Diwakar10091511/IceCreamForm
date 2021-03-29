@@ -11,7 +11,8 @@
 #b1{
     background: url(cm.jpg);
     background-repeat: no-repeat;
-    background-size: 1550px 750px; 
+    background-size: 1550px 750px;
+    text-align: center
 
 } 
 #h1{ 
