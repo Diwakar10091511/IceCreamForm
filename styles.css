@@ -1,18 +1,18 @@
 #f1{
     display: inline;
     border: 3px solid rgb(156, 63, 156);
-    border-radius: 20px;
+    
     }
     #fi{
     display: inline;
     border: 5px solid rgb(184, 127, 127);
-    border-radius: 40px;
+    
     }
 #b1{
     background: url(images/a1.jpg);
     background-repeat: no-repeat;
     background-size: 1550px 750px;
-    text-align: center;
+    
    
 } 
 #h1{ 
